@@ -86,9 +86,9 @@ I enjoy creating practical, user-centered mobile experiences and experimenting w
 
 ## Contribution snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/purushoth45/purushoth45/output/github-contribution-grid-snake.svg" alt="A golden snake moving across my GitHub contribution graph" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/purushoth45/purushoth45/output/github-contribution-grid-snake.svg?v=2" alt="A golden snake moving across my GitHub contribution graph" />
+</p>
 
 The snake is refreshed daily by GitHub Actions. Run **Generate contribution snake** from the Actions tab once to publish it for the first time.
 
