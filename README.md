@@ -72,22 +72,17 @@
 
 ### 📊 GitHub Telemetry & Activity
 
+
 <div align="center">
-  <!-- GitHub Stats & Top Languages Side-by-Side -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=purushoth45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F05138&icon_color=38BDF8" alt="Purushoth's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purushoth45&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F05138" alt="Top Languages" />
+  <!-- Self-hosted SVG generated automatically by GitHub Actions -->
+  <img src="./github-metrics.svg" alt="Purushoth's GitHub Metrics" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Reliable Contribution Streak & Snake/Graph -->
+  <!-- Working Contribution Streak Card -->
   <img src="https://streak-stats.demolab.com?user=purushoth45&theme=tokyonight&hide_border=true&background=0D1117&ring=F05138&fire=F05138&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F05138&height=100&section=footer" width="100%" />
-  <sub>Built with Swift precision • Open to iOS roles & collaborations</sub>
-</div>
