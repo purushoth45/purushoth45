@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=32&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Purushoth.;iOS+Developer+%26+Apple+Platform+Engineer.;Building+fast%2C+clean%2C+native+experiences." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=32&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Purushoth.;iOS+Developer+%26+Apple+Platform+Engineer.;Building+fast%2C+clean%2C+native+experiences." alt="Typing SVG" />
   </a>
 
   <p>
@@ -10,18 +10,18 @@
 
   <p>
     <a href="https://www.linkedin.com/in/purushoth45/">
-      <img src="https://img.shields.io/badge/LinkedIn-17130B?style=for-the-badge&logo=linkedin&logoColor=F5D76E" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-1A0B0B?style=for-the-badge&logo=linkedin&logoColor=FF6B6B" alt="LinkedIn" />
     </a>
     <a href="mailto:spprushoth45@gmail.com">
-      <img src="https://img.shields.io/badge/Email-17130B?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-1A0B0B?style=for-the-badge&logo=gmail&logoColor=E53935" alt="Email" />
     </a>
     <a href="https://instagram.com/sp_purshoth_45">
-      <img src="https://img.shields.io/badge/Instagram-17130B?style=for-the-badge&logo=instagram&logoColor=F5D76E" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-1A0B0B?style=for-the-badge&logo=instagram&logoColor=FF6B6B" alt="Instagram" />
     </a>
     <a href="https://github.com/purushoth45?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-17130B?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Repositories" />
+      <img src="https://img.shields.io/badge/Repositories-1A0B0B?style=for-the-badge&logo=github&logoColor=E53935" alt="Repositories" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=purushoth45&label=Profile%20Views&color=8A6D1D&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=purushoth45&label=Profile%20Views&color=B71C1C&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
@@ -63,9 +63,9 @@ I design and build native Apple ecosystem products with a strong focus on user e
 
 | Area | Tools & technologies |
 | :--- | :--- |
-| **Mobile & Apple** | ![Swift](https://img.shields.io/badge/Swift-8A6D1D?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-8A6D1D?style=for-the-badge&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-17130B?style=for-the-badge&logo=apple&logoColor=F5D76E) ![Xcode](https://img.shields.io/badge/Xcode-8A6D1D?style=for-the-badge&logo=xcode&logoColor=white) ![Objective-C](https://img.shields.io/badge/Objective--C-8A6D1D?style=for-the-badge&logo=apple&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-8A6D1D?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-8A6D1D?style=for-the-badge&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-8A6D1D?style=for-the-badge&logo=php&logoColor=white) |
-| **Data & Tools** | ![MySQL](https://img.shields.io/badge/MySQL-8A6D1D?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-8A6D1D?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-8A6D1D?style=for-the-badge&logo=figma&logoColor=white) |
+| **Mobile & Apple** | ![Swift](https://img.shields.io/badge/Swift-B71C1C?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-B71C1C?style=for-the-badge&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-1A0B0B?style=for-the-badge&logo=apple&logoColor=FF6B6B) ![Xcode](https://img.shields.io/badge/Xcode-B71C1C?style=for-the-badge&logo=xcode&logoColor=white) ![Objective-C](https://img.shields.io/badge/Objective--C-B71C1C?style=for-the-badge&logo=apple&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-B71C1C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-B71C1C?style=for-the-badge&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-B71C1C?style=for-the-badge&logo=php&logoColor=white) |
+| **Data & Tools** | ![MySQL](https://img.shields.io/badge/MySQL-B71C1C?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-B71C1C?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-B71C1C?style=for-the-badge&logo=figma&logoColor=white) |
 
 </div>
 
@@ -78,22 +78,22 @@ I enjoy creating practical, user-centered mobile experiences and experimenting w
 - App performance optimization and responsive interactions.
 - API-driven mobile products and clean backend integration.
 
-## GitHub stats
+<!-- ## GitHub stats
 
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub profile metrics" width="100%" />
-</div>
+</div> -->
 
 ## Contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/purushoth45/purushoth45/output/github-contribution-grid-snake.svg?v=2" alt="A golden snake moving across my GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/purushoth45/purushoth45/output/github-contribution-grid-snake.svg?v=3" alt="A red snake moving across my GitHub contribution graph" />
 </p>
 
 The snake is refreshed daily by GitHub Actions. Run **Generate contribution snake** from the Actions tab once to publish it for the first time.
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=purushoth45&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=F5D76E&currStreakLabel=D4AF37&sideLabels=E6D5A8&dates=9C8B62" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=purushoth45&theme=tokyonight&hide_border=true&background=0D1117&ring=E53935&fire=FF6B6B&currStreakLabel=E53935&sideLabels=FFB3B3&dates=9C7070" alt="GitHub Streak" />
 </div>
 
 ## Let's connect
@@ -106,8 +106,8 @@ If you are building something interesting in mobile, product, or Apple platform 
 - GitHub: https://github.com/purushoth45
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Always%20learning-Apple%20ecosystem-17130B?style=for-the-badge&logo=apple&logoColor=F5D76E" alt="Always learning" />
-  <img src="https://img.shields.io/badge/Open%20to%20collaboration-Yes-17130B?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/Always%20learning-Apple%20ecosystem-1A0B0B?style=for-the-badge&logo=apple&logoColor=FF6B6B" alt="Always learning" />
+  <img src="https://img.shields.io/badge/Open%20to%20collaboration-Yes-1A0B0B?style=for-the-badge&logo=github&logoColor=E53935" alt="Open to collaboration" />
 </p>
 
 <p align="center">

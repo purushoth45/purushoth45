@@ -24,7 +24,7 @@ jobs:
         with:
           github_user_name: purushoth45
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23D4AF37&color_dots=%2316130B,%233B2F1B,%237A5A1A,%23C49A35,%23F5D76E
+            dist/github-contribution-grid-snake.svg?color_snake=%23E53935&color_dots=%231A0B0B,%233D1111,%237A1717,%23C62828,%23FF6B6B
 
       - name: Publish snake to the output branch
         uses: crazy-max/ghaction-github-pages@v4
