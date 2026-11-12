@@ -5,43 +5,43 @@
       <stop offset="1" stop-color="#111827"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#F05138"/>
-      <stop offset="1" stop-color="#38BDF8"/>
+      <stop stop-color="#8A6D1D"/>
+      <stop offset="1" stop-color="#F5D76E"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
   <rect x="28" y="28" width="1144" height="304" rx="18" fill="#111827" stroke="#1F2937"/>
   <text x="54" y="86" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">GitHub Profile Summary</text>
-  <text x="54" y="123" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="18">Purushoth • Apple ecosystem • Swift • product-minded engineering</text>
+  <text x="54" y="123" fill="#C9B77D" font-family="Arial, Helvetica, sans-serif" font-size="18">Purushoth • Apple platforms • Swift • product-minded engineering</text>
 
   <g>
     <rect x="54" y="165" width="230" height="120" rx="18" fill="#0B1220" stroke="#1E293B"/>
-    <text x="76" y="200" fill="#9CA3AF" font-size="16" font-family="Arial, Helvetica, sans-serif">Commits</text>
-    <text x="76" y="245" fill="#F8FAFC" font-size="38" font-weight="700" font-family="Arial, Helvetica, sans-serif">120+</text>
-    <text x="76" y="268" fill="#38BDF8" font-size="14" font-family="Arial, Helvetica, sans-serif">Active development</text>
+    <text x="76" y="200" fill="#C9B77D" font-size="16" font-family="Arial, Helvetica, sans-serif">Building</text>
+    <text x="76" y="245" fill="#F5D76E" font-size="30" font-weight="700" font-family="Arial, Helvetica, sans-serif">Native apps</text>
+    <text x="76" y="268" fill="#C9B77D" font-size="14" font-family="Arial, Helvetica, sans-serif">For Apple platforms</text>
   </g>
 
   <g>
     <rect x="304" y="165" width="230" height="120" rx="18" fill="#0B1220" stroke="#1E293B"/>
-    <text x="326" y="200" fill="#9CA3AF" font-size="16" font-family="Arial, Helvetica, sans-serif">Repositories</text>
-    <text x="326" y="245" fill="#F8FAFC" font-size="38" font-weight="700" font-family="Arial, Helvetica, sans-serif">25+</text>
-    <text x="326" y="268" fill="#F05138" font-size="14" font-family="Arial, Helvetica, sans-serif">Curated projects</text>
+    <text x="326" y="200" fill="#C9B77D" font-size="16" font-family="Arial, Helvetica, sans-serif">Craft</text>
+    <text x="326" y="245" fill="#F5D76E" font-size="30" font-weight="700" font-family="Arial, Helvetica, sans-serif">SwiftUI</text>
+    <text x="326" y="268" fill="#C9B77D" font-size="14" font-family="Arial, Helvetica, sans-serif">Thoughtful interfaces</text>
   </g>
 
   <g>
     <rect x="554" y="165" width="230" height="120" rx="18" fill="#0B1220" stroke="#1E293B"/>
-    <text x="576" y="200" fill="#9CA3AF" font-size="16" font-family="Arial, Helvetica, sans-serif">Followers</text>
-    <text x="576" y="245" fill="#F8FAFC" font-size="38" font-weight="700" font-family="Arial, Helvetica, sans-serif">1K+</text>
-    <text x="576" y="268" fill="#A78BFA" font-size="14" font-family="Arial, Helvetica, sans-serif">Community growth</text>
+    <text x="576" y="200" fill="#C9B77D" font-size="16" font-family="Arial, Helvetica, sans-serif">Approach</text>
+    <text x="576" y="245" fill="#F5D76E" font-size="30" font-weight="700" font-family="Arial, Helvetica, sans-serif">Clean code</text>
+    <text x="576" y="268" fill="#C9B77D" font-size="14" font-family="Arial, Helvetica, sans-serif">Reliable by design</text>
   </g>
 
   <g>
     <rect x="804" y="165" width="330" height="120" rx="18" fill="#0B1220" stroke="#1E293B"/>
-    <text x="826" y="200" fill="#9CA3AF" font-size="16" font-family="Arial, Helvetica, sans-serif">Focus</text>
-    <text x="826" y="243" fill="#F8FAFC" font-size="30" font-weight="700" font-family="Arial, Helvetica, sans-serif">Swift • SwiftUI • iOS</text>
-    <text x="826" y="268" fill="#34D399" font-size="14" font-family="Arial, Helvetica, sans-serif">Clean, native, scalable product engineering</text>
+    <text x="826" y="200" fill="#C9B77D" font-size="16" font-family="Arial, Helvetica, sans-serif">Focus</text>
+    <text x="826" y="243" fill="#F5D76E" font-size="30" font-weight="700" font-family="Arial, Helvetica, sans-serif">Swift • iOS</text>
+    <text x="826" y="268" fill="#C9B77D" font-size="14" font-family="Arial, Helvetica, sans-serif">Useful, polished product experiences</text>
   </g>
 
   <rect x="54" y="305" width="200" height="8" rx="4" fill="url(#accent)"/>
-  <text x="270" y="317" fill="#94A3B8" font-size="12" font-family="Arial, Helvetica, sans-serif">Updated for a premium GitHub profile experience</text>
+  <text x="270" y="317" fill="#9C8B62" font-size="12" font-family="Arial, Helvetica, sans-serif">A little gold for the details</text>
 </svg>
