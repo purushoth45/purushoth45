@@ -1,6 +1,11 @@
 name: GitHub Profile Metrics
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - github-metrics.svg
   schedule:
     # Runs daily at 00:00 UTC (5:30 AM IST)
     - cron: "0 0 * * *"
